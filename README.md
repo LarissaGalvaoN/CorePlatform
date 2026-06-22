@@ -37,7 +37,7 @@ O objetivo é evidenciar os riscos decorrentes da ausência de governança.
 ## Estrutura do Repositório
 
 ```
-codigo/
+CorePlatform/
 ├── antes/
 │   ├── db_connection.ts
 │   └── sensor_query.ts
@@ -70,4 +70,4 @@ Ele **não foi desenvolvido para execução em ambiente real** e contém trechos
 
 A descrição completa do cenário, das regras de governança, da metodologia utilizada, das evidências da simulação e da análise crítica encontra-se no relatório do trabalho.
 
-**Relatório:** [text](https://docs.google.com/document/d/1IG7e_RuHQCD1r99akyv-yz6Pog_jlvPuG2TH4MonMVQ/edit?tab=t.jjf6kzbfccca)
+**Relatório:** [Larissa Galvão Nascimento - Trabalho de GTI - Relatório Final](https://docs.google.com/document/d/1IG7e_RuHQCD1r99akyv-yz6Pog_jlvPuG2TH4MonMVQ/edit?tab=t.jjf6kzbfccca)
